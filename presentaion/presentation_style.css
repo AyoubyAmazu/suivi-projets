@@ -1,0 +1,22 @@
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+.custom-image {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    
+}
+.custom-slide { 
+    padding: 20px;
+    border-radius: 8px;
+} 
+#ux-design{
+    background-color: aliceblue;
+}
+#apprentissage{
+    display: flex;
+    justify-content: center;
+    
+}
