@@ -10,3 +10,7 @@
 #formateur + p > img{
     width: 70%;
 }
+
+#definition + p{
+    font-size: 1.2rem;
+}
