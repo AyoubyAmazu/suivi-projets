@@ -11,6 +11,12 @@
 
 ---
 
+### Apprentissage
+![Soli-lms](../image/git-submodule.png "ux-design")
+![Soli-lms](../image/github.png "ux-design")
+![Soli-lms](../image/reveal-js.png "ux-design")
+
+---
 ###  Plan
 
 
@@ -23,7 +29,30 @@
 | **Friday**     | TEST /VALIDATION       |    TEST / VALIDATION     |      FILL ROUGE /tuto3           |
 
 ---
-### Apprentissage
-![Soli-lms](../image/git-submodule.png "ux-design")
-![Soli-lms](../image/soli-lms.png "ux-design")
-![Soli-lms](../image/soli-lms.png "ux-design")
+### Empathie
+![Soli-lms](../image/images.png "ux-design")
+
+--
+ #### formateur
+![Soli-lms](../image/carte-empathie-formateur.svg "ux-design")
+
+--
+ #### apprenent
+![Soli-lms](../image/carte-empathie-apprenant.svg "ux-design")
+
+---
+### Definition
+![Soli-lms](../image/definition.png "ux-design")
+
+---
+### ideation 
+![Soli-lms](../image/ideation.png "ux-design")
+
+---
+### cas d'utulisation
+---
+### diagrame du class 
+---
+### realisation
+---
+### conclution

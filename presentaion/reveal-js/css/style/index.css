@@ -1,4 +1,12 @@
-#apprentissage > p {
-    display: flex;
-    background-color: rgb(13, 13, 12);
+
+#apprentissage + p {
+   display: flex;
+   justify-content: space-between;
+}
+
+#apprentissage + p > img{
+    width: 40%;
+}
+#formateur + p > img{
+    width: 70%;
 }
