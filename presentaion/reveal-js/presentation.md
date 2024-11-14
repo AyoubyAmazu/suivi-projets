@@ -36,17 +36,13 @@
  #### formateur
 ![Soli-lms](../image/carte-empathie-formateur.svg "ux-design")
 
---
- #### apprenent
-![Soli-lms](../image/carte-empathie-apprenant.svg "ux-design")
+
 
 ---
 ### Definition
+   Le **pkg_suivi_projet** vise à résoudre le manque d'outils adaptés pour les formateurs en centralisant le suivi des projets des apprenants de manière visuelle et interactive. Il pallie les lacunes des méthodes fragmentées, améliore la visibilité globale et facilite la communication et la gestion des livrables, optimisant ainsi le suivi et le feedback.
 ![Soli-lms](../image/definition.png "ux-design")
 
----
-### ideation 
-![Soli-lms](../image/ideation.png "ux-design")
 
 ---
 ### cas d'utulisation

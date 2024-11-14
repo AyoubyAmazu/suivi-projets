@@ -1,0 +1,18 @@
+@startuml
+left to right direction
+
+actor Formateur
+
+rectangle "Interface Formateur - Suivi de Projet" {
+  usecase "Accéder au tableau des projets" as UC1
+  usecase "Consulter l'état des projets" as UC2
+  usecase "Suivre l'avancement des projets" as UC3
+  usecase "Consulter le tableau de l'état de chaque apprenant" as UC4
+}
+
+Formateur --> UC1 : Se connecte à l'interface
+Formateur --> UC2 : Consulte les projets des apprenants
+Formateur --> UC3 : Suit l'avancement des projets
+UC4 .u.> UC3 : <<extend>>
+@enduml
+
