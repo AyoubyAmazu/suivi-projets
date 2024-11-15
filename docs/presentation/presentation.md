@@ -36,7 +36,7 @@
 ![Soli-lms](image/responsable-empathy.png "ux-design")
 --
  #### Formateur
-![Soli-lms](image/Formateur-empathy.png "ux-design")
+![Soli-lms](image/formateur-empathy.png "ux-design")
 
 --
  #### Apprenant
