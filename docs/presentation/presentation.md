@@ -1,5 +1,5 @@
 ### Introduction
-![introduction](/suivi-projets/image/ux-design.png "ux-design")
+![introduction](image/ux-design.png "ux-design")
  
  
 ---
@@ -55,6 +55,8 @@
 ![Soli-lms](image/use_case.png "ux-design")
 ---
 ### diagrame du class 
+
+
 ---
 ### realisation
 ---
