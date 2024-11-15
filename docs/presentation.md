@@ -31,10 +31,16 @@
 ---
 ### Empathie
 ![Soli-lms](../image/images.png "ux-design")
+--
+ #### Responsable du formation
+![Soli-lms](../image/responsable-empathy.png "ux-design")
+--
+ #### Formateur
+![Soli-lms](../image/Formateur-empathy.png "ux-design")
 
 --
- #### formateur
-![Soli-lms](../image/carte-empathie-formateur.svg "ux-design")
+ #### Apprenant
+![Soli-lms](../image/apprenant-empathy.png "ux-design")
 
 
 
@@ -46,6 +52,7 @@
 
 ---
 ### cas d'utulisation
+![Soli-lms](../image/use_case.png "ux-design")
 ---
 ### diagrame du class 
 ---
