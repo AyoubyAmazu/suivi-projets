@@ -10,14 +10,14 @@
 
    ### responsable du formation
 
- ![Soli-lms](../image/responsable-empathy.png "ux-design")
+ ![Soli-lms](../docs/image/responsable-empathy.png "ux-design")
 
    ### Formateur
 
-  ![Soli-lms](../image/formateur-empathy.png "ux-design")
+  ![Soli-lms](../docs/image/formateur-empathy.png "ux-design")
 
    ### Apprenant
- ![Soli-lms](../image/apprenant-empathy.png "ux-design")
+ ![Soli-lms](../docs/image/apprenant-empathy.png "ux-design")
 
 ## Définition 
 
@@ -40,6 +40,6 @@ L'idéation du pkg_suivi_projet pour l'interface formateur de Soli-LMS consiste 
 
 ## Cas d'utilisateur
 
- ![Soli-lms](../image/use_case.png "ux-design")
+ ![Soli-lms](../docs/image/use_case.png "ux-design")
 
 ## Diagrame du class
