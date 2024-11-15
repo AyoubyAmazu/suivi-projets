@@ -8,15 +8,15 @@
  - Cette approche aide chaque personne (Responsable de Formation, Formateur et Apprenant) à mieux comprendre, suivre et s'améliorer grâce à des outils simples et efficaces pour leurs besoins.
 
 
-   ### responsable du formation
+  ### responsable du formation
 
  ![Soli-lms](../presentation/image/responsable-empathy.png "ux-design")
 
-   ### Formateur
+  ### Formateur
 
   ![Soli-lms](../presentation/image/formateur-empathy.png "ux-design")
 
-   ### Apprenant
+  ### Apprenant
  ![Soli-lms](../presentation/image/apprenant-empathy.png "ux-design")
 
 ## Définition 
